@@ -42,7 +42,7 @@ O projeto foi desenvolvido com o objetivo de praticar habilidades de desenvolvim
 
 ## Link do Projeto
 Verifique e experimente o projeto:
-[GitHub Profile Finder]().
+[GitHub Profile Finder](https://buscador-github-chi-lyart.vercel.app).
 
 ---
 
